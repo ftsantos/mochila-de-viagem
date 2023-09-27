@@ -3,7 +3,7 @@
 Mochila de Viagem
 </h1>
 
-<p align="center">Adicionar e remover itens na mochila</p>
+<p align="center">Adicione e remova itens na mochila</p>
 
 ## Features
 [//]: # (Add the features of your project here:)
